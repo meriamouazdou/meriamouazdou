@@ -10,7 +10,7 @@
 
 ### 👋 About Me
 - 🌱 Hi, I’m Meriam Ouazdou!
-- 🎓 I’m in my second year of engineering studies, focusing on **Big Data and Artificial Intelligence**.
+- 🎓 I’m in my fourth year of engineering studies, focusing on **Big Data and Artificial Intelligence**.
 - 🚀 I’m passionate about applying data science and machine learning to solve real-world problems.
 - 👯 I’m open to collaborating on AI and data-focused projects.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/meriam.ouazdou/) | [LinkedIn](https://www.linkedin.com/in/meriam-ouazdou/)
