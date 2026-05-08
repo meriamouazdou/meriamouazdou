@@ -1,158 +1,119 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Meriam+%F0%9F%91%8B;Data+Engineer+%7C+AI+Engineering+Student;Building+end-to-end+data+pipelines+%7C+Kafka+%C2%B7+Spark+%C2%B7+Neo4j)](https://github.com/meriamouazdou)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:00b4d8&height=200&section=header&text=Meriam%20Ouazdou&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%20Engineering%20Student&descAlignY=58&descSize=18" />
 
 </div>
 
-### 🌐 [View My Portfolio →](https://meriamouazdou.github.io)
+<br/>
+
+<table>
+<tr>
+<td width="55%">
+
+### 👩‍💻 About Me
+
+```yaml
+name:     Meriam Ouazdou
+role:     Data Engineer & AI Engineering Student
+degrees:
+  - ISGA Marrakech — Big Data & AI (EUR-ACE®)
+  - Aivancity Paris-Cachan — Cloud & Data Eng.
+internships: 3
+focus:    End-to-end data pipelines · ML · Cloud
+open_to:  Global opportunities · Remote · Relocation
+```
+
+</td>
+<td width="45%" align="center">
+
+🌐 **[meriamouazdou.github.io](https://meriamouazdou.github.io)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriam-ouazdou-3ab9101a0)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meriamouazdou@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meriamouazdou)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 About Me
+## ⚡ Tech Stack
 
-5th year **AI & Big Data Engineering** student with a double degree (Morocco 🇲🇦 + France 🇫🇷).  
-I build **end-to-end data solutions** — from raw ingestion to ML-powered dashboards.
+<div align="center">
 
-3 internships completed, including a real production system at **SNRT** (Morocco's national broadcaster)  
-where I built an AI-powered decision support platform used by operational teams.
+**— Streaming & Big Data —**
 
-Currently looking for **global opportunities** in Data Engineering, MLOps, or AI.
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 
----
+**— Databases —**
 
-## 🛠️ Core Stack
-
-**Data & Streaming**
-
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=databricks&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**ML & AI**
+**— AI & ML —**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Visualization & Deployment**
+**— Deploy & Viz —**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</div>
 
 ---
 
-## 🚀 Projects
+## 🗂️ Featured Projects
 
-### 🔷 AI Decision Support System — SNRT
-*Internship · National broadcaster · Production system*
-
-Built a full AI-powered DSS used by operational teams at SNRT for real-time KPI tracking and predictive analytics.
-
-- Real-time dashboard tracking **10+ operational KPIs**
-- Integrated **predictive analytics** to forecast trends
-- Stack: **Django · MongoDB · Python · Power BI**
-- Deployed to internal infrastructure, used in production
-
-### 🔶 Influencer Analysis Pipeline — Kafka + Neo4j
-*End-to-end streaming & graph analytics*
-
-- Ingested and processed social media data via **Apache Kafka + Spark**
-- Built a **Neo4j graph database** to model influencer networks
-- Applied **PageRank** to rank influencers by reach and impact
-- Interactive **Streamlit dashboard** for real-time visualization
-
-### 🟣 Mini-Twitter — Real-time Kafka Streaming
-*Distributed messaging platform*
-
-- Designed a Producer/Consumer architecture with **Apache Kafka**
-- Handled **concurrent message streams** across multiple topics
-- Built in **Java** with focus on fault tolerance and scalability
-
-### 🟢 Bank Fraud Detection
-*ML classification on imbalanced data*
-
-- Processed **284,807 transactions** from Moroccan banking sector
-- Tackled heavy class imbalance with stratified sampling
-- Tested RF, XGBoost, Logistic Regression — reduced false positives
-- Stack: **Python · Scikit-learn · Pandas**
-
-### 🔵 E-commerce ETL & Decision Support
-*Data warehouse + BI*
-
-- Designed full ETL pipeline with **Pentaho**
-- Built a star-schema **data warehouse**
-- Created executive dashboards in **Power BI**
-
----
-
-## 🎓 Education
-
-| Degree | School | Period |
-|--------|--------|--------|
-| MSc Cloud Computing & Data Engineering | Aivancity Paris-Cachan 🇫🇷 | 2024–2026 |
-| State Engineering Degree — AI & Big Data (EUR-ACE®) | ISGA Marrakech 🇲🇦 | 2021–2026 |
+| 🔹 Project | 🛠️ Stack | 📌 Highlight |
+|-----------|----------|-------------|
+| [**Decision Support System — SNRT**](https://github.com/meriamouazdou/decision-support-system-SNRT) | Django · MongoDB · Power BI | Production system · 10+ KPIs tracked |
+| [**Influencer Analysis Pipeline**](https://github.com/meriamouazdou/influencer-analysis-kafka-neo4j) | Kafka · Spark · Neo4j · Streamlit | PageRank + Louvain community detection |
+| [**Mini-Twitter Kafka Streaming**](https://github.com/meriamouazdou/mini-twitter-kafka-streaming) | Kafka · Java | Multi-topic Producer/Consumer architecture |
+| [**Bank Fraud Detection**](https://github.com/meriamouazdou/Movie-Review-Classification-with-Machine-Learning) | Python · Scikit-learn · XGBoost | 284,807 transactions · imbalanced data |
+| [**E-commerce ETL & BI**](https://github.com/meriamouazdou/ecommerce-etl-decision-support) | Pentaho · BigQuery · Power BI | Star-schema data warehouse |
+| [**Student Performance Prediction**](https://github.com/meriamouazdou/performancePrediction) | Python · Scikit-learn | 5 models compared — DT, RF, NN, LR |
 
 ---
 
 ## 💼 Experience
 
-```python
-internships = [
-    {
-        "company": "SNRT — Morocco's national broadcaster",
-        "role": "AI & Big Data Intern",
-        "period": "Jul–Sep 2025 · Rabat",
-        "impact": "Built production DSS — Django, MongoDB, predictive analytics, Power BI"
-    },
-    {
-        "company": "Terrain 360",
-        "role": "Data Analysis Intern",
-        "period": "Jul–Aug 2024 · Marrakech",
-        "impact": "Data cleaning, transformation & validation for analytical models"
-    },
-    {
-        "company": "Optimal Construction",
-        "role": "Web & Data Development Intern",
-        "period": "Jul–Sep 2023 · Marrakech",
-        "impact": "Corporate website + data tracking & visualization modules"
-    },
-]
+```
+📍 SNRT · Rabat            │ AI & Big Data Intern      │ Jul – Sep 2025
+   └─ Django + MongoDB DSS · predictive analytics · Power BI dashboards
+
+📍 Terrain 360 · Marrakech │ Data Analysis Intern      │ Jul – Aug 2024
+   └─ Data cleaning, transformation & validation for analytical models
+
+📍 Optimal Construction     │ Web & Data Dev Intern     │ Jul – Sep 2023
+   └─ Corporate website + data tracking & visualization modules
 ```
 
 ---
 
-## 📊 Current Focus
+## 🎓 Education
 
-```python
-current = {
-    "learning":  ["MLOps", "Distributed Systems", "LLM pipelines"],
-    "building":  ["End-to-end ML pipelines", "Real-time data systems"],
-    "open_to":   ["Data Engineer", "ML Engineer", "AI Engineer — Global"],
-    "languages": ["Arabic (native)", "French (fluent)", "English (fluent)"]
-}
 ```
-
----
-
-## 🌐 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-A277FF?style=flat-square&logo=vercel&logoColor=white)](https://meriamouazdou.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriam-ouazdou-3ab9101a0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:meriamouazdou@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/meriamouazdou)
-
-💬 Open to: internships, full-time roles, collaborations on data/AI projects  
-🌍 Available for remote & relocation
+🎓 ISGA Marrakech           │ Engineering — Big Data & AI (EUR-ACE®)  │ 2021–2026
+🎓 Aivancity Paris-Cachan   │ MSc Cloud Computing & Data Engineering  │ 2024–2026
+```
 
 ---
 
 <div align="center">
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+*Pipeline to production. Raw data to real impact.*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=meriamouazdou.meriamouazdou)
 
 </div>
