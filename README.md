@@ -4,6 +4,8 @@
 
 </div>
 
+### 🌐 [View My Portfolio →](https://meriamouazdou.github.io)
+
 ---
 
 ## 🧠 About Me
@@ -102,11 +104,23 @@ Built a full AI-powered DSS used by operational teams at SNRT for real-time KPI 
 ```python
 internships = [
     {
-        "company": "SNRT",
-        "role": "AI & Big Data Engineer",
-        "impact": "Built production DSS — Django, MongoDB, predictive analytics"
+        "company": "SNRT — Morocco's national broadcaster",
+        "role": "AI & Big Data Intern",
+        "period": "Jul–Sep 2025 · Rabat",
+        "impact": "Built production DSS — Django, MongoDB, predictive analytics, Power BI"
     },
-    # + 2 more internships
+    {
+        "company": "Terrain 360",
+        "role": "Data Analysis Intern",
+        "period": "Jul–Aug 2024 · Marrakech",
+        "impact": "Data cleaning, transformation & validation for analytical models"
+    },
+    {
+        "company": "Optimal Construction",
+        "role": "Web & Data Development Intern",
+        "period": "Jul–Sep 2023 · Marrakech",
+        "impact": "Corporate website + data tracking & visualization modules"
+    },
 ]
 ```
 
@@ -127,7 +141,8 @@ current = {
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriam-ouazdou)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A277FF?style=flat-square&logo=vercel&logoColor=white)](https://meriamouazdou.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriam-ouazdou-3ab9101a0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:meriamouazdou@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/meriamouazdou)
 
